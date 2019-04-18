@@ -4,4 +4,4 @@ Demo
 Some changes
 
 
-Hi my name *Amber*
+Hi my **name** is *Amber*
